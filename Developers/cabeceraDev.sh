@@ -19,9 +19,7 @@ if [ -z "$3" ]
  then
    EXTEN="txt"
  else
-  
    EXTEN=$3
-
 fi
 
 if [ -z "$4" ]
@@ -31,11 +29,9 @@ if [ -z "$4" ]
    DESCRIPCION=$4
 fi
 
-
 NAME_F=$NAME_F.$EXTEN
 
 touch $RUTA$NAME_F
-
 echo "#!/bin/bash
 #+++++++++++++++++++++++++++++
 #title           : $NAME_F
