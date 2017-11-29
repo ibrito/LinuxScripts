@@ -5,8 +5,16 @@
 #author          :Irving Brito @ibritosistema
 #date            :24-12-2017
 #++++++++++++++++++++++++++++++
+# $1 -> nombre del archivo
+# $2 -> ruta de almacenamiento
+# $3 -> tipo de archivo
+# $4 -> descripcion
+# $5 -> autor
+
+ 
 NAME_F=$1_`date +%Y%-m%-d`
 FECHA_F=`date +'%Y-%m-%d'`
+
 
 if [ -z "$2" ]
  then
@@ -19,7 +27,9 @@ if [ -z "$3" ]
  then
    EXTEN="txt"
  else
+  
    EXTEN=$3
+
 fi
 
 if [ -z "$4" ]
@@ -29,14 +39,24 @@ if [ -z "$4" ]
    DESCRIPCION=$4
 fi
 
+
+if [ -z "$5" ]
+ then
+   AUTOR=`whoami`
+ else
+   AUTOR=$5
+fi
+
+
 NAME_F=$NAME_F.$EXTEN
 
 touch $RUTA$NAME_F
+
 echo "#!/bin/bash
 #+++++++++++++++++++++++++++++
 #title           : $NAME_F
 #description     : $DESCRIPCION
-#author          : Irving Brito @ibritosistema
+#author          : $AUTOR
 #date            : $FECHA_F
 #++++++++++++++++++++++++++++++" > $RUTA$NAME_F
 
