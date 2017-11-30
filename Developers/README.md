@@ -1,8 +1,8 @@
 # LinuxScripts/Developers
 
 
-###### cabeceraDev.sh
-###	Uso
+#### cabeceraDev.sh
+#####	Uso
 ------------
 	La ejecución de este archivo genera un nuevo archivo con una cabecera que posee esta estructura.
 ```
