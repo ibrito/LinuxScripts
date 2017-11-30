@@ -27,3 +27,10 @@
 | [iniciarServidores_20171130.sh](https://github.com/ibrito/LinuxScripts/tree/master/Developers#iniciarservidores_20171130sh) | Inicias Servicios Httpd y Mysql |
 | [iniciarLogs_20171130.sh](https://github.com/ibrito/LinuxScripts/tree/master/Developers#iniciarlogs_20171130sh) | Crea el directorio /var/log/MiWeb/ |
 
+
+## Contenido /Developer
+
+| Archivo | Descripción |
+| ---- | ---- |
+| README.md | Descriptor de Scripts |
+| [listUsrAct_20171130.sh](https://github.com/ibrito/LinuxScripts/tree/master/SysAdmin#listusract_20171130sh) | Listar sesiones activas Linux |
