@@ -62,4 +62,4 @@ echo "#!/bin/bash
 
 echo "Se ha creado un SCRITP con nombre $NAME_F en: $RUTA"
 touch cabeceraDev.log
-echo "$FECHA_F	|	$NAME_F		|	$RUTA" >> cabeceraDev.log
+echo " $FECHA_F	|	$NAME_F		|	$RUTA" >> cabeceraDev.log
