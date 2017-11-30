@@ -2,7 +2,9 @@
 
 
 ###### cabeceraDev.sh
-###	Uso:la ejecución de este archivo genera un nuevo archivo con una cabecera que posee esta estructura.
+###	Uso
+------------
+	La ejecución de este archivo genera un nuevo archivo con una cabecera que posee esta estructura.
 ```
 	#!/bin/bash
 	#+++++++++++++++++++++++++++++
