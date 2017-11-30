@@ -25,3 +25,5 @@
 | README.md | Descriptor de Scripts |
 | cabeceraDev.sh | Crea cabecera para archivos |
 | iniciarServidores_20171130.sh | Inicias Servicios Httpd y Mysql |
+| iniciarLogs_20171130.sh | Crea el directorio /var/log/MiWeb/ |
+
