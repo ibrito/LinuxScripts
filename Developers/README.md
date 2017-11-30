@@ -58,6 +58,10 @@ _________________________________________________________________________
 
 La ejecución de este archivo iniciara los servicios de Httpd(Apache) y Myqld, permitiendo asi que un solo script ejecute ambos servicios.
 
+```sh
+./iniciarServidores_20171130.sh
+```
+
 Tambien genera un archivo de log para cada uno de los servicios iniciados, los cuales se van a almacenar en /var/log/MiWeb/, los archivos generados quedaran de esta forma:
 
 *   s_apache_*AAA_mm_dd*.log
@@ -69,4 +73,26 @@ Se puede observar que estan claramente identificado la correspondencia de los ar
 ##### Nota
 
 >Recuerda cambiar los perisos de ejecucion para el usuario respectivo
+>Utilice primero el Scritp iniciarLogs_20171130.sh para crear el directorio de log respectivo
+
+_________________________________________________________________________
+
+
+## iniciarLogs_20171130.sh
+####  Uso
+
+La ejecución de este archivo crea el directorio /var/log/MiWeb/ donde se alamcenaran los logs de *s_apache_AAAA_mm_dd.log* y  *s_mysql_AAAA_mm_dd.log* 
+
+```sh
+./iniciarLogs_20171130.sh
+```
+
+
+##### Nota
+
+>Recuerda cambiar los perisos de ejecucion para el usuario respectivo
+>Si desea cambiar la ruta de almacenamiento solo cambie la rauta de la variable $DIRECTORIO dentro del script, si realiza este cambio tambien debe cambairlo la ruta en el Script iniciarServidores_20171130.sh
+
+
+
 
