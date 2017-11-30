@@ -3,6 +3,6 @@
 
 ###### cabeceraDev.sh
 ###	Uso: 
-	```
-	./cabecera.sh nombreArchivo [rutaAlmacenamiento] [tipoArchivo] [descripcion] [autor]
-	``` 
+```
+./cabecera.sh nombreArchivo [rutaAlmacenamiento] [tipoArchivo] [descripcion] [autor]
+``` 
