@@ -6,6 +6,7 @@
 #date            : 2017-11-30
 #++++++++++++++++++++++++++++++
 #!/bin/bash
+
 DIRECTORIO="/var/log/MiWeb/"
 
 
