@@ -48,7 +48,8 @@ Si queremos crear un archivo index_20171129.php, almacenarlo en /var/wwww/html/M
 ```
 ##### Nota
 
->Recuerda cambiar los perisos de ejecucion para el usuario respectivo__
+>Recuerda cambiar los perisos de ejecucion para el usuario respectivo  
+
 [LinuxScripts](https://github.com/ibrito/LinuxScripts){.btn.btn-link.btn-sm}
 
 _________________________________________________________________________
