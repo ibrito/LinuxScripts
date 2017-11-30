@@ -1,7 +1,7 @@
 # LinuxScripts/Developers
 
 
-## [cabeceraDev.sh](#1)
+## cabeceraDev.sh
 
 
 #### Uso
