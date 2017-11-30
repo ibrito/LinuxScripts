@@ -29,7 +29,7 @@ separador por un espacio en blanco:
 2. rutaAlmacenamiento	"si se omite este parametro el archivo se creara por defencto donde se ejecute el Script"
 3. tipoArchivo		"Sera la extensión de archivo que queramos colocar, si se omite este parametro el archivo de salida sea un .txt"
 4. descripcion		"es una breve reseña del objetivo del archivo, debe ir entre "" comillas dobles para indicar que es un literal"
-5. autor		"sera el nombre del creador del nuevo archivo, si se omite se usara el nombre de usuario que este ejecutando el Script"
+5. autor		"sera el nombre del creador del nuevo archivo, si se omite se usara el nombre de usuario que este ejecutando el Script".
 	
 ```
 ./cabecera.sh nombreArchivo [rutaAlmacenamiento] [tipoArchivo] [descripcion] [autor]
