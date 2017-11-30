@@ -14,7 +14,10 @@
 	#date            :dd-mm-AAAA
 	#++++++++++++++++++++++++++++++
 ``` 
-	Tambien genera un Archivo denomidano cabeceraDev.log donde se registraran todos los archivos creados con este Script, este archivo log se almacena en el mismo directorio donde se ejecutor el cabeceraDev.sh, los datos registrados en el log son los siguientes
+	Tambien genera un Archivo denomidano cabeceraDev.log donde se registraran
+ todos los archivos creados con este Script, este archivo log se almacena en el
+ mismo directorio donde se ejecutor el cabeceraDev.sh, los datos registrados en 
+el log son los siguientes:
 ```
 AAAA-mm-dd      |       nombreArchivo.tipoArchivo             |      rutaAlamcenamiento
 ```
