@@ -1,4 +1,4 @@
-# LinuxScripts/Developers
+# Developers
 
 
 ## cabeceraDev.sh
