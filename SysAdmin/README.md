@@ -1,2 +1,2 @@
 # /SysAdmin
-Indice de scrips para Administradores de servidores GNU Linux
+Scripts para Administradores de servidores GNU Linux
