@@ -43,4 +43,6 @@ Si queremos crear un archivo index_20171129.php, almacenarlo en /var/wwww/html/M
 ```
 ./cabecera.sh index /var/www/html/ php "Archivo index de MiproyectoPhp" ibrito
 ```
+
+
  
