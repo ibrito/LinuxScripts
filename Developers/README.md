@@ -37,7 +37,10 @@ separador por un espacio en blanco:
 
 ###### Ejemplo
 --------------
-	Si queremos crear un archivo index_20171129.php, almacenarlo en /var/wwww/html/MiProyectoPhp/,  bastaria con ejecutar el script de la siguiente forma.
+
+Si queremos crear un archivo index_20171129.php, almacenarlo en /var/wwww/html/MiProyectoPhp/,  bastaria con ejecutar el script de la siguiente forma.
+
 ```
 ./cabecera.sh index /var/www/html/ php "Archivo index de MiproyectoPhp" ibrito
-``` 
+```
+ 
