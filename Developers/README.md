@@ -4,7 +4,8 @@
 #### cabeceraDev.sh
 ######	Uso
 ------------
-	La ejecución de este archivo genera un nuevo archivo con una cabecera que posee esta estructura.
+La ejecución de este archivo genera un nuevo archivo con una cabecera que posee esta estructura.
+
 ```
 	#!/bin/bash
 	#+++++++++++++++++++++++++++++
@@ -13,15 +14,16 @@
 	#author          :autor
 	#date            :dd-mm-AAAA
 	#++++++++++++++++++++++++++++++
-``` 
-	Tambien genera un Archivo denomidano cabeceraDev.log donde se registraran
+```
+Tambien genera un Archivo denomidano cabeceraDev.log donde se registraran
  todos los archivos creados con este Script, este archivo log se almacena en el
  mismo directorio donde se ejecutor el cabeceraDev.sh, los datos registrados en 
 el log son los siguientes:
+
 ```
 AAAA-mm-dd      |       nombreArchivo.tipoArchivo             |      rutaAlamcenamiento
 ```
-	La estructura del Script es la sigueinte, puede recibir hasta 5 parametros
+La estructura del Script es la sigueinte, puede recibir hasta 5 parametros
 separador por un espacio en blanco:
 1. nombreArchivo	"Es el nombre que tendra el archivo generado"
 2. rutaAlmacenamiento	"si se omite este parametro el archivo se creara por defencto donde se ejecute el Script"
