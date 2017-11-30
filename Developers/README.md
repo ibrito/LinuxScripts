@@ -50,7 +50,7 @@ Si queremos crear un archivo index_20171129.php, almacenarlo en /var/wwww/html/M
 
 >Recuerda cambiar los perisos de ejecucion para el usuario respectivo  
 
-[LinuxScripts](https://github.com/ibrito/LinuxScripts){.btn.btn-link.btn-sm}
+[LinuxScripts](https://github.com/ibrito/LinuxScripts)  
 
 _________________________________________________________________________
 
@@ -74,8 +74,11 @@ Se puede observar que estan claramente identificado la correspondencia de los ar
 
 ##### Nota
 
->Recuerda cambiar los perisos de ejecucion para el usuario respectivo
->Utilice primero el Scritp iniciarLogs_20171130.sh para crear el directorio de log respectivo
+>Recuerda cambiar los perisos de ejecucion para el usuario respectivo  
+>Utilice primero el Scritp iniciarLogs_20171130.sh para crear el directorio de log respectivo  
+
+[LinuxScripts](https://github.com/ibrito/LinuxScripts)
+
 
 _________________________________________________________________________
 
@@ -92,8 +95,11 @@ La ejecución de este archivo crea el directorio /var/log/MiWeb/ donde se alamce
 
 ##### Nota
 
->Recuerda cambiar los perisos de ejecucion para el usuario respectivo
->Si desea cambiar la ruta de almacenamiento solo cambie la rauta de la variable $DIRECTORIO dentro del script, si realiza este cambio tambien debe cambairlo la ruta en el Script iniciarServidores_20171130.sh
+>Recuerda cambiar los perisos de ejecucion para el usuario respectivo  
+>Si desea cambiar la ruta de almacenamiento solo cambie la rauta de la variable $DIRECTORIO dentro del script, si realiza este cambio tambien debe cambairlo la ruta en el Script iniciarServidores_20171130.sh  
+
+[LinuxScripts](https://github.com/ibrito/LinuxScripts)
+
 
 
 
