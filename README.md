@@ -24,6 +24,6 @@
 | ---- | ---- |
 | README.md | Descriptor de Scripts |
 | [cabeceraDev.sh](https://github.com/ibrito/LinuxScripts/tree/master/Developers#cabeceradevsh) | Crea cabecera para archivos |
-| iniciarServidores_20171130.sh | Inicias Servicios Httpd y Mysql |
-| iniciarLogs_20171130.sh | Crea el directorio /var/log/MiWeb/ |
+| [iniciarServidores_20171130.sh](https://github.com/ibrito/LinuxScripts/tree/master/Developers#iniciarservidores_20171130sh) | Inicias Servicios Httpd y Mysql |
+| [iniciarLogs_20171130.sh](https://github.com/ibrito/LinuxScripts/tree/master/Developers#iniciarlogs_20171130sh) | Crea el directorio /var/log/MiWeb/ |
 
