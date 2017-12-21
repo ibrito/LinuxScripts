@@ -28,7 +28,7 @@
 | [iniciarLogs_20171130.sh](https://github.com/ibrito/LinuxScripts/tree/master/Developers#iniciarlogs_20171130sh) | Crea el directorio /var/log/MiWeb/ |
 
 
-## Contenido /Developer
+## Contenido /SysAdmin
 
 | Archivo | Descripción |
 | ---- | ---- |
