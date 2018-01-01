@@ -34,3 +34,4 @@
 | ---- | ---- |
 | README.md | Descriptor de Scripts |
 | [listUsrAct_20171130.sh](https://github.com/ibrito/LinuxScripts/tree/master/SysAdmin#listusract_20171130sh) | Listar sesiones activas Linux |
+| [anioNuevo.sh](https://github.com/ibrito/LinuxScripts/tree/master/SysAdmin#anionuevosh) | Mensaje de Feliz Año Nuevo |
