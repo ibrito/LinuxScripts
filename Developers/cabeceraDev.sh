@@ -2,7 +2,7 @@
 #+++++++++++++++++++++++++++++
 #title           :cabeceras.sh
 #description     :Crea la ceberea para Script Developers
-#author          :Irving Brito @ibritosistema
+#author          :Irving Brito @ibritosistemas
 #date            :24-12-2017
 #++++++++++++++++++++++++++++++
 # $1 -> nombre del archivo
