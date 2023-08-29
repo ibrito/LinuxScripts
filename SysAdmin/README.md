@@ -15,7 +15,7 @@ La ejecución de este archivo desplegara por pantalla los usuarios que actualmen
 
 ##### Nota
 
->Recuerda cambiar los perisos de ejecucion para el usuario respectivo
+>Recuerda cambiar los permisos de ejecucion para el usuario respectivo
 
 [LinuxScripts](https://github.com/ibrito/LinuxScripts)
 
@@ -33,7 +33,7 @@ La ejecución de este archivo desplegara por pantalla un mensaje cuando se un a�
 
 ##### Nota
 
->Recuerda cambiar los perisos de ejecucion para el usuario respectivo
+>Recuerda cambiar los permisos de ejecucion para el usuario respectivo
 
 [LinuxScripts](https://github.com/ibrito/LinuxScripts)
 
